@@ -3,10 +3,10 @@ title: "Substack"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Paywall
+- Content
 tags:
 - Live
-- Content
+- Publishing
 draft: false
 images:
 - /images/substack.png
@@ -26,4 +26,4 @@ fee: "10%"
 fee_text: "If you have a paid publication, Substack charges 10% of your subscription revenue."
 ---
 
-Paid newsletters where readers pay directly to writers, bloggers, thinkers, and creatives of every background..<!--more-->
+Paid newsletters where readers pay directly to writers, bloggers, thinkers, and creatives of every background.<!--more-->

@@ -6,7 +6,7 @@ categories:
 - Donations
 tags:
 - Live
-- Content
+- Publishing
 draft: false
 images:
 - /images/falttr.png

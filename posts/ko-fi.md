@@ -9,7 +9,7 @@ categories:
 tags:
 - Live
 - Creative works
-- Content
+- Publishing
 draft: false
 images:
 - /images/ko-fi.png
