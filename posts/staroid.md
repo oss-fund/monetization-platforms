@@ -12,7 +12,7 @@ draft: false
 images:
 - /images/staroid.svg
 comments: true
-lastmod: 2020-06-20T08:20:00+02:00
+lastmod: 2020-07-06T08:20:00+02:00
 link: "https://staroid.com/"
 twitter: staroid4
 description: "Staroid is a hosting platform that turns open source projects into running services to fund project contributors."
