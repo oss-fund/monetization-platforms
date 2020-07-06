@@ -10,7 +10,7 @@ tags:
 - Developer friendly
 draft: false
 images:
-- /images/staroid.png
+- /images/staroid.svg
 comments: true
 lastmod: 2020-06-20T08:20:00+02:00
 link: "https://staroid.com/"
@@ -27,4 +27,4 @@ fee: "20%"
 ---
 
 Staroid is a cloud platform that helps turn open source projects into hosted services and fund project contributors with a cut of the proceeds.<!--more-->
-
+The platform provides Kubernetes namespace as a project runtime.
