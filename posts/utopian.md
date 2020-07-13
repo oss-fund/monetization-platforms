@@ -21,7 +21,7 @@ monetization: "Grants for project maintainers"
 technology: "Open source, Blockchain, Steem"
 status: "Discontinued"
 activity: "0"
-payment_services: ""
+payment_services: "?"
 fee: "?"
 ---
 

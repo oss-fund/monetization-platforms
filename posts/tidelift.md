@@ -22,7 +22,7 @@ technology: "Close source"
 status: "Live"
 activity: "1000"
 activity_text: "More than 1000 projects backed"
-payment_services: ""
+payment_services: "?"
 fee: "1500$"
 fee_text: "$1500/month"
 ---

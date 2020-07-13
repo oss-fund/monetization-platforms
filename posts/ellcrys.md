@@ -21,7 +21,7 @@ monetization: "Paid development, bug fixes, token based monetization"
 technology: "Open source"
 status: "In-development"
 activity: "0"
-payment_services: ""
+payment_services: "?"
 fee: "?"
 ---
 

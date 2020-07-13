@@ -18,7 +18,7 @@ monetization: "Bounties"
 technology: "Close source"
 status: "Discontinued"
 activity: "0"
-payment_services: ""
+payment_services: "?"
 fee: "?"
 ---
 

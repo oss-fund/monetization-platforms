@@ -22,7 +22,7 @@ technology: "Open source, Ruby on Rails "
 status: "Live"
 activity: "4"
 activity_text: "There are 4 teams hosting Houdini for fundraising needs"
-payment_services: ""
+payment_services: "?"
 fee: "0"
 ---
 

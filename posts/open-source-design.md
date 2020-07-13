@@ -22,7 +22,7 @@ technology: "Close source"
 status: "Live"
 activity: "150"
 activity_text: "More than 150 jobs (some paid, some gratis)"
-payment_services: ""
+payment_services: "?"
 fee: "0"
 ---
 

@@ -22,7 +22,7 @@ technology: "Open source"
 status: "In-development"
 activity: "?"
 payment_services: "PayPal, credit card"
-fee: ""
+fee: "?"
 
 ---
 

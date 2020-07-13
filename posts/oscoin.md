@@ -21,7 +21,7 @@ monetization: "Decentralized infrastructure for projects"
 technology: "Open source, Blockchain, Dash"
 status: "In-development"
 activity: "0"
-payment_services: ""
+payment_services: "?"
 fee: "?"
 ---
 

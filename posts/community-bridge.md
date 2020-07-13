@@ -24,7 +24,7 @@ technology: "Close source"
 status: "Live"
 activity: "30"
 activity_text: "More than 30 projects with some funding"
-payment_services: ""
+payment_services: "?"
 fee: "5%"
 fee_text: "Zero fees for first $10M donated through CommunityBridge. After that, 5% platform fee plus the payment processor’s fee."
 ---

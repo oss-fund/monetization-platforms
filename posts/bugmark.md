@@ -22,7 +22,7 @@ monetization: "A marketplace for issues and selective incentives"
 technology: "Close source"
 status: "In-development"
 activity: "0"
-payment_services: ""
+payment_services: "?"
 fee: "?"
 ---
 

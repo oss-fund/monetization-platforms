@@ -21,7 +21,7 @@ technology: "Close source"
 status: "Live"
 activity: "7000000"
 activity_text: "7 million developers come to Read the Docs 35 million times monthly" 
-payment_services: ""
+payment_services: "?"
 fee: "600$-1500$"
 fee_text: "$600 for 200k impressions, $1500 for 600k impressions"
 ---

@@ -25,7 +25,7 @@ technology: "Open source, Blockchain, Steem, Tron"
 status: "Live"
 activity: "400"
 activity_text: "More than 400 projects with various level of funding"
-payment_services: ""
+payment_services: "?"
 fee: "0%"
 fee_text: "0% fees for founders and backers with Steem account."
 ---

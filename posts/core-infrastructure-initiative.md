@@ -22,7 +22,7 @@ technology: "Close source"
 status: "Live"
 activity: "10"
 activity_text: "Less than 10 projects funded"
-payment_services: ""
+payment_services: "?"
 fee: "0"
 fee_text: "Grants are funded by donations from individuals and members  and awarded to selected projects"
 ---

@@ -24,7 +24,7 @@ technology: "Open source"
 status: "Live"
 activity: "15"
 activity_text: "More than 15 projects granted funds"
-payment_services: ""
+payment_services: "?"
 fee: "0"
 ---
 
