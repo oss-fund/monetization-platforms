@@ -21,7 +21,7 @@ organization: "Non-profit"
 monetization: "Donations and software foundations like services"
 technology: "Close source"
 status: "Live"
-activity: "50"
+activity: 50
 activity_text: "More than 50 projects backed"
 payment_services: "Paypal, Check, eBay sales, Amazon purchases, stock"
 fee: "10%"

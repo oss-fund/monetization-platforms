@@ -22,7 +22,7 @@ organization: "Corporation"
 monetization: "Crowdfunding campaigns with target goal"
 technology: "Close source"
 status: "Live"
-activity: "17000000"
+activity: 17000000
 activity_text: "Close to 17 million people backed around 500000 projects"
 payment_services: "Credit card"
 fee: "5%"

@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Tiered support model for project sponsorship"
 technology: "Open source"
 status: "In-development"
-activity: "10"
+activity: 10
 activity_text: "Around 10 backers for the platform itself"
 payment_services: "Stripe"
 fee: "0"

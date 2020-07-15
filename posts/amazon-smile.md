@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Donations from purchases of customers who opted-in"
 technology: "Close source"
 status: "Live"
-activity: "10000"
+activity: 10000
 activity_text: "There are more than 10000 charities (including software foundations) that received more than 15M$ in donations"
 payment_services: "Credit card"
 fee: "99.5%"

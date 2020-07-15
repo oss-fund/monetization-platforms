@@ -20,7 +20,7 @@ organization: "Non-profit"
 monetization: "Express need of support for maintainers"
 technology: "Open source"
 status: "Live"
-activity: "0"
+activity: 0
 payment_services: "None"
 fee: "0"
 ---

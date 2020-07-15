@@ -22,7 +22,7 @@ organization: "Corporation"
 monetization: "Donations, crowdfunding, paywall, commissions (unique work)"
 technology: "Close source"
 status: "Live"
-activity: "300000"
+activity: 300000
 activity_text: "More than 300000 bloggers, artists, podcasters, developers, cosplayers and all kinds of creators have received more than $12m using Ko-fi."
 payment_services: "Stripe, Paypal"
 fee: "0%"

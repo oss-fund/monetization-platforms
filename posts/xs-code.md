@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Dual licensing model for support and services"
 technology: "Close source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Payoneer"
 fee: "25%"
 ---

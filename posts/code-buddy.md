@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Real time, in-IDE support"
 technology: "Close source"
 status: "In-development"
-activity: "0"
+activity: 0
 payment_services: "?"
 fee: "?"
 ---

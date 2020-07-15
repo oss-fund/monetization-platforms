@@ -22,7 +22,7 @@ organization: "Non-profit"
 monetization: "Crowdfunding"
 technology: "Close source"
 status: "Live"
-activity: "30"
+activity: 30
 activity_text: "More than 30 projects with some funding"
 payment_services: "?"
 fee: "5%"

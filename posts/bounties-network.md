@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Open source, Blockchain, Ethereum"
 status: "Live"
-activity: "10"
+activity: 10
 activity_text: "Less than 10 bounties"
 payment_services: "Ethereum, token"
 fee: "0%"

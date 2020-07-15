@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Security bug bounties"
 technology: "Open source, Blockchain, Ethereum, EOS"
 status: "Live"
-activity: "10"
+activity: 10
 activity_text: "More than 10 security related bug bounties posted"
 payment_services: "Ethereum, EOS, Token"
 fee: "?"

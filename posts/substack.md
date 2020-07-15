@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Content and newsletter paywall where readers pay writers directly"
 technology: "Close source"
 status: "Live"
-activity: "100000"
+activity: 100000
 activity_text: "More than 100,000 people pay to subscribe to writers across the Substack"
 payment_services: "Stripe"
 fee: "10%"

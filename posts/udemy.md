@@ -22,7 +22,7 @@ organization: "Corporation"
 monetization: "Sales of online video courses"
 technology: "Close source"
 status: "Live"
-activity: "50000000"
+activity: 50000000
 activity_text: "There are 57000 instructors teaching over 150000 courses, more than 50 million students"
 payment_services: "PayPal, credit card, Apple App Store, Google Play, Payoneer"
 fee: "50%"

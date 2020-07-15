@@ -21,7 +21,7 @@ organization: "Non-profit"
 monetization: "Donations funded pods for targeted compute themes"
 technology: "Close source"
 status: "Live"
-activity: "100"
+activity: 100
 activity_text: "More than 100 projects funded"
 payment_services: "Cash, Credit cad, Paypal, Bitcoin"
 fee: "0"

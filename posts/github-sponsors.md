@@ -23,7 +23,7 @@ organization: "Corporation"
 monetization: "Sponsorship for bug reports, issue triage, code, documentation, etc."
 technology: "Close source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "ACH, SEPA, Wire transfer"
 fee: "0%"
 fee_text: "No charge fees, and Github covers payment processing costs for the first year"

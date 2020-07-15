@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "A cut from users running your project on the SaaS platform"
 technology: "Close source"
 status: "Live"
-activity: "10"
+activity: 10
 activity_text: "Less than 10 projects"
 payment_services: "Sripe"
 fee: "20%"

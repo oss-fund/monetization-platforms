@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Open source, Blockchain, Hyperledger Fabric"
 status: "Discontinued"
-activity: "0"
+activity: 0
 payment_services: "Token"
 fee: "0"
 ---

@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Sales of online video courses"
 technology: "Close source"
 status: "Live"
-activity: "100000"
+activity: 100000
 activity_text: "More than 100000 creators sold over $500M in courses"
 payment_services: "Credit card, PayPal, Apple Pay, Google Pay"
 fee: "29$"

@@ -23,7 +23,7 @@ organization: "Corporation"
 monetization: "Decentralized crowdfunding"
 technology: "Open source, Blockchain, Steem, Tron"
 status: "Live"
-activity: "400"
+activity: 400
 activity_text: "More than 400 projects with various level of funding"
 payment_services: "?"
 fee: "0%"

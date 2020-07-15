@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Donations, issue funding"
 technology: "Close source"
 status: "Discontinued"
-activity: "0"
+activity: 0
 payment_services: "Stripe, Bitcoin"
 fee: "?"
 ---

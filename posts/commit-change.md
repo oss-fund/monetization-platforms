@@ -18,7 +18,7 @@ organization: "Corporation"
 monetization: "Donations, crowdfunding campaigns, fundraising events"
 technology: "Open source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Stripe"
 fee: "3%"
 fee_text: "3% of online donations"

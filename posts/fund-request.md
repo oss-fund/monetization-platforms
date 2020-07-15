@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Open source, Blockchain, Ethereum"
 status: "Live"
-activity: "10"
+activity: 10
 activity_text: "More than 10 backers"
 payment_services: "Token"
 fee: "?"

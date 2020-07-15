@@ -20,7 +20,7 @@ organization: "Non-profit"
 monetization: "Grants for selected projects"
 technology: "Close source"
 status: "Live"
-activity: "10"
+activity: 10
 activity_text: "Less than 10 projects funded"
 payment_services: "?"
 fee: "0"

@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Ethical advertising"
 technology: "Open source"
 status: "Discontinued"
-activity: "39"
+activity: 39
 activity_text: "More than 39 ad campaigns" 
 payment_services: "Stripe, Paypal, Ethereum, Transferwise"
 fee: "0"

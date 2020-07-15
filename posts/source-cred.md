@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Metric generation for fair rewards and donations"
 technology: "Open source"
 status: "In-development"
-activity: "0"
+activity: 0
 payment_services: "?"
 fee: "0"
 ---

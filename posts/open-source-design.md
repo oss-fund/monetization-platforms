@@ -20,7 +20,7 @@ organization: "Non-profit"
 monetization: "Jobs board for designers"
 technology: "Close source"
 status: "Live"
-activity: "150"
+activity: 150
 activity_text: "More than 150 jobs (some paid, some gratis)"
 payment_services: "?"
 fee: "0"

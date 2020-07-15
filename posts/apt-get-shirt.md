@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Donations from merchandise purchases"
 technology: "Close source"
 status: "Live"
-activity: "8"
+activity: 8
 activity_text: "There are less than 10 T-shirts listed"
 payment_services: "Paypal, Wire transfer"
 fee: "50%"

@@ -18,7 +18,7 @@ organization: "Corporation"
 monetization: "Decentralized bounties"
 technology: "Close source"
 status: "Discontinued"
-activity: "0"
+activity: 0
 payment_services: "?"
 fee: "?"
 ---

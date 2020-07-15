@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Paywall for software package usage"
 technology: "Open source"
 status: "In-development"
-activity: "?"
+activity: -1
 payment_services: "PayPal, credit card"
 fee: "?"
 

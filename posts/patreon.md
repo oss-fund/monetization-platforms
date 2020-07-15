@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Regular donations"
 technology: "Close source"
 status: "Live"
-activity: "3000000"
+activity: 3000000
 activity_text: "More than 3 million patrons support more than 100,000 creators"
 payment_services: "Paypal, Credit card"
 fee: "5%-12%"

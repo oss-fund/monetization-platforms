@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "One time small donations"
 technology: "Close source"
 status: "Live"
-activity: "1000"
+activity: 1000
 activity_text: "There are more than 100000 registered creators (around 1000 supported)"
 payment_services: "Paypal, Stripe, Apple Pay, Google Pay, Credit card"
 fee: "5%"

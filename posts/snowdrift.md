@@ -22,7 +22,7 @@ organization: "Non-profit"
 monetization: "Donations with matching limits"
 technology: "Close source"
 status: "In-development"
-activity: "0"
+activity: 0
 payment_services: "Paypal, Bitcoin"
 fee: "?"
 ---

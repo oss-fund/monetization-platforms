@@ -19,7 +19,7 @@ organization: "Non-profit"
 monetization: "Bounties"
 technology: "Open source"
 status: "Discontinued"
-activity: "0"
+activity: 0
 payment_services: "Ethereum"
 fee: "?"
 ---

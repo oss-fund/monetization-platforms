@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Free cloud services to open source projects"
 technology: "Close source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Credit card"
 fee: "0"
 ---

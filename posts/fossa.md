@@ -22,7 +22,7 @@ organization: "Government"
 monetization: "EU sponsored support for FOSS"
 technology: "Open source"
 status: "Live"
-activity: "15"
+activity: 15
 activity_text: "More than 15 projects granted funds"
 payment_services: "?"
 fee: "0"

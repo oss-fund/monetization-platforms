@@ -23,7 +23,7 @@ organization: "Non-profit"
 monetization: "Donations"
 technology: "Open source"
 status: "Live"
-activity: "1000"
+activity: 1000
 activity_text: "More than 1000 teams, organizations, individuals, repositories backed by many patrons"
 payment_services: "Stripe, Paypal, Credit card"
 fee: "5%"

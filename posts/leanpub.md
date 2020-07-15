@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Self-publishing of E-books and courses"
 technology: "Close source"
 status: "Live"
-activity: "6500"
+activity: 6500
 activity_text: "More than 6500 published and listed on Leanpub store"
 payment_services: "Paypal"
 fee: "20%"

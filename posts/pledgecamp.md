@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Decentralized crowdfunding"
 technology: "Close source"
 status: "In-development"
-activity: "1"
+activity: 1
 payment_services: "Ethereum"
 fee: "?"
 ---

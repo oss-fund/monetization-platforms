@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Tipping content creators"
 technology: "Close source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Ethereum"
 fee: "?"
 ---

@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Open source"
 status: "Live"
-activity: "150"
+activity: 150
 activity_text: "More than 150 paid tasks"
 payment_services: "Stripe, Paypal"
 fee: "8%-30%"

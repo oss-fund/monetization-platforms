@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Ethical advertising"
 technology: "Close source"
 status: "Live"
-activity: "7000000"
+activity: 7000000
 activity_text: "7 million developers come to Read the Docs 35 million times monthly" 
 payment_services: "?"
 fee: "600$-1500$"

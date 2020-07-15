@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Commission from sales"
 technology: "Close source"
 status: "Live"
-activity: "12000"
+activity: 12000
 activity_text: "There are over 12000 members in the marketplace"
 payment_services: "Credit card"
 fee: "12%"

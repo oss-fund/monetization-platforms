@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Issue based bounties"
 technology: "Close source"
 status: "Live"
-activity: "500"
+activity: 500
 activity_text: "More than 500 paid issues"
 payment_services: "Stipe, Paypal"
 fee: "10%"

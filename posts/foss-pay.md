@@ -19,7 +19,7 @@ organization: "Individual"
 monetization: "Donations"
 technology: "Open source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Stripe"
 fee: "0%"
 ---

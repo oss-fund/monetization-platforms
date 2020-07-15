@@ -23,7 +23,7 @@ organization: "Non-profit"
 monetization: "Donation based sponsorship of non-technical administrative tasks"
 technology: "Close source"
 status: "Live"
-activity: "40"
+activity: 40
 activity_text: "40 projects sponsored"
 payment_services: "Paypal, Credit card"
 fee: "0"

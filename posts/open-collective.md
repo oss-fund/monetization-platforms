@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Donations, sponsorships"
 technology: "Open source"
 status: "Live"
-activity: "1900"
+activity: 1900
 activity_text: "More than 1900 collectives with contributors"
 payment_services: "Paypal, credit card"
 fee: "5%"

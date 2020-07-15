@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Support through subscription"
 technology: "Open source"
 status: "In-development"
-activity: "0"
+activity: 0
 payment_services: "?"
 fee: "299$"
 fee_text: "From $299.99/month to $2399.99/year"

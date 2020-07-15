@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Single subscription, shared between as many receivers"
 technology: "Close source"
 status: "Live"
-activity: "21000"
+activity: 21000
 activity_text: "More than 21000 websites are using using Flattr"
 payment_services: "Credit card, MangoPay"
 fee: "5%"

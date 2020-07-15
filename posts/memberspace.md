@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Paywall for websites and membership monetization"
 technology: "Close source"
 status: "Live"
-activity: "6000"
+activity: 6000
 activity_text: "There are over 6000 membership site founders!"
 payment_services: "Stripe"
 fee: "25$"

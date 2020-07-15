@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Donations, campaigns"
 technology: "Close source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Stripe, Paypal, Ogone"
 fee: "49$"
 fee_text: "From 49$/month to 129$/month"

@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Tipping online creators"
 technology: "Close source"
 status: "Live"
-activity: "248775"
+activity: 248775
 activity_text: "There are more than 10000 creators backed by around 243000 unique tippers"
 payment_services: "Credit card, Paypal"
 fee: "8%"

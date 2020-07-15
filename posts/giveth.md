@@ -19,7 +19,7 @@ organization: "Community"
 monetization: "Donations"
 technology: "Open source, Blockchain, Ethereum"
 status: "Live"
-activity: "50"
+activity: 50
 activity_text: "More than 50 donations"
 payment_services: "Ethereum"
 fee: "0%"

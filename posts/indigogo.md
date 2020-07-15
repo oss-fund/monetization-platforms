@@ -22,7 +22,7 @@ organization: "Corporation"
 monetization: "Campaign and on demand crowdfunding"
 technology: "Close source"
 status: "Live"
-activity: "9000000"
+activity: 9000000
 activity_text: "More than 9M backers contributed to over 800000 ideas"
 payment_services: "Stripe"
 fee: "5%"

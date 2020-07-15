@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Bounty, contest, recurring payments, kudos, tips."
 technology: "Open source"
 status: "Live"
-activity: "280"
+activity: 280
 activity_text: "More than 280 bounties"
 payment_services: "Ethereum"
 fee: "0%"

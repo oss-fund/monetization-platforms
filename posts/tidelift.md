@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Support through subscription"
 technology: "Close source"
 status: "Live"
-activity: "1000"
+activity: 1000
 activity_text: "More than 1000 projects backed"
 payment_services: "?"
 fee: "1500$"

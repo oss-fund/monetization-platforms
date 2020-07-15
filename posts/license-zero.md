@@ -20,7 +20,7 @@ organization: "Corporation"
 monetization: "Dual licensing model with selling private licenses"
 technology: "Open source"
 status: "Live"
-activity: "?"
+activity: -1
 payment_services: "Stripe"
 fee: "1%"
 fee_text: "1% of gross sales"

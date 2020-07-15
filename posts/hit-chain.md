@@ -21,7 +21,7 @@ organization: "Corporation"
 monetization: "Decentralized ecosystem of services, governance and funding"
 technology: "Open source, Blockchain"
 status: "In-development"
-activity: "0"
+activity: 0
 payment_services: "Token"
 fee: "?"
 ---

@@ -23,7 +23,7 @@ organization: "Non-profit"
 monetization: "Crowdfunding"
 technology: "Open source"
 status: "Live"
-activity: "1200"
+activity: 1200
 activity_text: "More than 1200 projects funded"
 payment_services: "PayPal, Credit card, Goteo Virtual Purse."
 fee: "4%"
