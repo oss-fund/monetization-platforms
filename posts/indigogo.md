@@ -6,7 +6,6 @@ categories:
 - Crowdfunding
 tags:
 - Live
-- Technology
 - Creative works
 - Social impact
 - Gaming

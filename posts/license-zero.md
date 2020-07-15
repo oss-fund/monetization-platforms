@@ -8,6 +8,7 @@ tags:
 - Live
 - FOSS friendly
 - Developer friendly
+- Legal
 draft: false
 images:
 - /images/license-zero.png
