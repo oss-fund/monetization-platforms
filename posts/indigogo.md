@@ -10,7 +10,7 @@ tags:
 - Social impact
 - Gaming
 - Health
-draft: false
+draft: true
 images:
 - /images/indiegogo.png
 comments: true

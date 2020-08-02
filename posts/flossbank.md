@@ -7,7 +7,6 @@ categories:
 - Ads
 tags:
 - Live
-- In-development
 - FOSS friendly
 - Developer friendly
 draft: false
