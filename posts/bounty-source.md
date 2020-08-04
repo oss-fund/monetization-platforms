@@ -15,6 +15,7 @@ images:
 comments: true
 lastmod: 2020-08-04T12:20:00+02:00
 link: "https://www.bountysource.com/"
+twitter: bountysource
 description: "Bountysource is the funding platform for open-source software by creating/collecting bounties and pledging to fundraisers."
 organization: "Corporation"
 monetization: "Bounties, Crowdfunding, Donations."
