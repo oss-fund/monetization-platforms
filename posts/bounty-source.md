@@ -20,7 +20,8 @@ organization: "Corporation"
 monetization: "Bounties, Crowdfunding, Donations."
 technology: "Open source"
 status: "Live"
-activity: 0
+activity: 2000
+activity_text: "A community with around 70000 members and over 2000 active bounties"
 payment_services: "PayPal, Bitcoin, Check"
 fee: "10%"
 ---
