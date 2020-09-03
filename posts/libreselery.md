@@ -5,12 +5,12 @@ type: post
 categories:
 - Donations
 tags:
-- Self-Hosted
-- Non-profit
-- Foss-friendly
-- Decentralized
-- Live
-- Continouse-integration
+- self-hosted
+- non-profit
+- foss-friendly
+- decentralized
+- live
+- continouse-integration
 draft: false
 images:
 - /images/libreselery.png
