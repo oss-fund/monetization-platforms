@@ -5,12 +5,13 @@ type: post
 categories:
 - Donations
 tags:
-- self-hosted
-- non-profit
-- foss-friendly
-- decentralized
-- live
-- continouse-integration
+- Live
+- Decentralized
+- FOSS friendly
+- Developer friendly
+- Non-profit
+- Self-hosted
+- Continuous-integration
 draft: false
 images:
 - /images/libreselery.png
@@ -21,7 +22,7 @@ twitter: protontypes
 description: "Continuous and automated donation distribution to your project contributors and dependencies. Integrated into Github Actions"
 organization: "Community"
 monetization: "Automated Donation Integrated into Continouse Integration"
-technology: "Free and Open Source"
+technology: "Open source"
 status: "Live"
 activity: 3000
 activity_text: "About 3000€ have already been distributed with LibreSelery"
