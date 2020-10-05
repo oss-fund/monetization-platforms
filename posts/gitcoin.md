@@ -18,7 +18,7 @@ link: "https://gitcoin.co/"
 twitter: gitcoin
 description: "Gitcoin is the easiest way to leverage the open source community to incentivize or monetize work."
 organization: "Corporation"
-monetization: "Bounty, contest, recurring payments, kudos, tips."
+monetization: "Bounty, contest, recurring payments, kudos, tips"
 technology: "Open source"
 status: "Live"
 activity: 280

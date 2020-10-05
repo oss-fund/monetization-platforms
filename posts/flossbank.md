@@ -4,7 +4,7 @@ date: 2020-07-31T08:20:00+02:00
 type: post
 categories:
 - Donations
-- Ads
+- Advertising
 tags:
 - Live
 - FOSS friendly
