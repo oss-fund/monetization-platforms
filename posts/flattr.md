@@ -9,7 +9,7 @@ tags:
 - Publishing
 draft: false
 images:
-- /images/falttr.png
+- /images/flattr.png
 comments: true
 lastmod: 2020-06-20T08:20:00+02:00
 link: "https://flattr.com/"

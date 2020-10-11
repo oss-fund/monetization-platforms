@@ -24,5 +24,5 @@ payment_services: "Ethereum"
 fee: "?"
 ---
 
-A platform for decentralized technical knowledge base for the Ethereum ecosystem by incentivising creators and the community.<!--more-->. Support the writers you love with tipping.
+A platform for decentralized technical knowledge base for the Ethereum ecosystem by incentivising creators and the community. Support the writers you love with tipping.<!--more-->
 

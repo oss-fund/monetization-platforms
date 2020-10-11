@@ -27,4 +27,4 @@ fee: "8%"
 fee_text: "Commission is 8% including tax on the amounts collected each month."
 ---
 
-Tipeee is a financing platform for Internet content creators allowing them to receive tips from their communities..<!--more-->
+Tipeee is a financing platform for Internet content creators allowing them to receive tips from their communities.<!--more-->
