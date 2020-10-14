@@ -8,6 +8,7 @@ tags:
 - In-development
 - Developer friendly
 - Interactive
+- IDE
 draft: false
 images:
 - /images/code-buddy.png
