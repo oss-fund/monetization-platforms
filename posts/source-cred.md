@@ -8,6 +8,7 @@ tags:
 - In-development
 - FOSS friendly
 - Developer friendly
+- Decentralized
 draft: false
 images:
 - /images/source-cred.png
@@ -20,7 +21,8 @@ organization: "Corporation"
 monetization: "Metric generation for fair rewards and donations"
 technology: "Open source"
 status: "In-development"
-activity: 0
+activity: 2
+activity_text: "Used for SourceCred itself and Maker projects"
 payment_services: "?"
 fee: "0"
 ---

@@ -19,7 +19,7 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Close source"
 status: "Live"
-activity: 0
+activity: 1600
 activity_text: "Over 1600 bounties, all of which claimed or expired"
 payment_services: "Credit card"
 fee: "0.99$-14.99$"
