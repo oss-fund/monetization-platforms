@@ -10,7 +10,7 @@ tags:
 - Social impact
 - Gaming
 - Health
-draft: true
+draft: false
 images:
 - /images/kickstarter.png
 comments: true
