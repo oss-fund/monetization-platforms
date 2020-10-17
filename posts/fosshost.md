@@ -22,8 +22,9 @@ organization: "Non-profit"
 monetization: "Donations"
 technology: "Open source"
 status: "Live"
-activity: 3000000
-activity_text: "The project operates a large and global infrastructure across two continents and seven data centers in the USA, EU and UK."
+activity: 50
+activity_text: "More than 50 projects are using Fosshost."
+payment_services: "Paypal, Bitcoin, Infrastructure"
 fee: "0"
 ---
 The project operates a number of free hosting services for the open source community. The infrastructure is donated by our hosting sponsors and managed by a group of highly talented volunteers. <!--more-->
