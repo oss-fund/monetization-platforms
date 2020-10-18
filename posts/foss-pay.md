@@ -5,7 +5,7 @@ type: post
 categories:
 - Donations
 tags:
-- Live
+- Discontinued
 - Self-hosted
 - Developer friendly
 draft: false
@@ -18,7 +18,7 @@ description: "A self hosted Python and PostgreSQL based donation collection plat
 organization: "Individual"
 monetization: "Donations"
 technology: "Open source"
-status: "Live"
+status: "Discontinued"
 activity: -1
 payment_services: "Stripe"
 fee: "0%"
