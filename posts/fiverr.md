@@ -24,9 +24,9 @@ technology: "Close source"
 status: "Live"
 activity: 240000000
 activity_text: "Fiver has 2.4 million active buyers and 830,000 sellers"
-payment_services: "Credit card, PayPal, Apple Pay, Google Pay, "
+payment_services: "Credit card, PayPal, Apple Pay, Google Pay"
 fee: "20%"
-fee_text: "Fiverr has 20% commission and withdrawal fees"
+fee_text: "Fiverr has 20% commission and withdrawal fees from sellers, and $2 or 5% from buyers"
 ---
 
 Fiverr is the world’s most transacted online marketplace for freelance to offer digital services to customers worldwide.<!--more-->
