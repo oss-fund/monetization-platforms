@@ -17,7 +17,7 @@ link: "https://coil.com/"
 twitter: coil
 description: "Coil enables real-time payments to content owners in digital assets using Web Monetization API"
 organization: "Corporation"
-monetization: "Real time micro payments for time spent"
+monetization: "Real time payments for time spent consuming content"
 technology: "Close source"
 status: "Live"
 activity: -1

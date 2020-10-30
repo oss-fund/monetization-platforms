@@ -20,7 +20,7 @@ link: "https://faiross.org/"
 twitter: FairOSS_PBC
 description: "FairOSS is a public benefit corporation with a mission to sustain the production and maintenance of freely shareable intellectual property."
 organization: "Public benefit corporation"
-monetization: "Fundraise equity/funding from organizations using open source to support their project dependencies in exchange for a 'fair-trade' trademark for open source. Charter membership dues for involvement in core company activities."
+monetization: "Membership fees, trademark fees, equity fundraising"
 technology: "Open source"
 status: "Live"
 activity: 0
@@ -42,3 +42,5 @@ FairOSS also offers membership programs designed to bootstrap the company, expan
 - "Actively fundraising for open source project dependencies and company funding".
 - "Strengthening community connections and partnerships to build the Groundwater program".
 
+### Monetization
+Fundraise equity/funding from organizations using open source to support their project dependencies in exchange for a 'fair-trade' trademark for open source. Charter membership dues for involvement in core company activities.
