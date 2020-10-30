@@ -22,7 +22,7 @@ organization: "Corporation"
 monetization: "Subscription, purchase or donation plans for projects"
 technology: "Close source"
 status: "Live"
-activity: 10
+activity: 60
 activity_text: "More than 10 maintainers"
 payment_services: "Stripe, Paypal"
 fee: "0%-1%"
