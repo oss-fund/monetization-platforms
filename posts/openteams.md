@@ -29,7 +29,6 @@ activity: 26000
 activity_text: "Over 26000 developers and open source contributors on the platform."
 payment_services: "Paypal, Credit card"
 fee: "10%-20%"
-fee_text: "Fiverr has 20% commission and withdrawal fees from sellers, and $2 or 5% from buyers"
 ---
 
 Services marketplace where users can find, vet, and contract with open source service providers.<!--more-->
