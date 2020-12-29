@@ -3,10 +3,11 @@ title: "IndieMaker"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Marketplace
+- Paywall
 tags:
 - Live
 - Developer friendly
+- Marketplace
 draft: false
 images:
 - /images/indie-maker.png

@@ -9,7 +9,6 @@ tags:
 - FOSS friendly
 - Developer friendly
 - Creative works
-- Education
 - Social impact
 draft: false
 images:

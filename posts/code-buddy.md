@@ -3,7 +3,7 @@ title: "CodeBuddy"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Subscription
+- Support
 tags:
 - In-development
 - Developer friendly

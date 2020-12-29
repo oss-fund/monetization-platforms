@@ -3,11 +3,13 @@ title: "Codementor"
 date: 2020-11-26T12:20:00+02:00
 type: post
 categories:
-- Marketplace
+- Support
 tags:
 - Live
 - Developer friendly
 - FOSS friendly
+- Marketplace
+- Interactive
 draft: false
 images:
 - /images/codementor.png

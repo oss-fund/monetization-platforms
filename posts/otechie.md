@@ -3,7 +3,7 @@ title: "Otechie"
 date: 2020-10-14T08:20:00+02:00
 type: post
 categories:
-- Subscription
+- Support
 tags:
 - In-development
 - Developer friendly

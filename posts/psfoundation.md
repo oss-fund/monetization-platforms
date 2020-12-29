@@ -26,3 +26,5 @@ fee: "0%"
 ---
 
 Permissionless Software Foundation is a community-oriented, and legally-nonexistent decentralized autonomous organization who's purpose is to foster the growth of open source software and the adoption of Bitcoin Cash.<!--more-->
+
+

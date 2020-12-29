@@ -3,7 +3,7 @@ title: "AWS Promotional Credit"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Grants
+- Infrastructure
 tags:
 - Live
 - FOSS friendly

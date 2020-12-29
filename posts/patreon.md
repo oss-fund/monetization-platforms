@@ -8,7 +8,6 @@ tags:
 - Live
 - Creative works
 - Publishing
-- Education
 draft: false
 images:
 - /images/patreon.jpg

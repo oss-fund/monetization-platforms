@@ -5,7 +5,6 @@ type: post
 categories:
 - Donations
 - Crowdfunding
-- Paywall
 tags:
 - Live
 - Creative works

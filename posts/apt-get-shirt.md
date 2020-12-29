@@ -3,7 +3,6 @@ title: "Apt-get Shirt"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Donations
 - Merchandise
 tags:
 - Live

@@ -3,7 +3,7 @@ title: "Coil"
 date: 2020-10-29T08:20:00+02:00
 type: post
 categories:
-- Donations
+- Content
 tags:
 - Live
 - Publishing

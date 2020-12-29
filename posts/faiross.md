@@ -4,13 +4,12 @@ date: 2020-10-03T12:20:00+02:00
 type: post
 categories:
 - Fundraising
-- Trademark
 tags:
 - Live
-- Public benefit corporation
 - FOSS friendly
 - Membership
 - Social impact
+- Trademark
 draft: false
 images:
 - /images/faiross.png

@@ -9,7 +9,6 @@ tags:
 - Decentralized
 - Creative works
 - Charity
-- Education
 - Gaming
 - Health
 draft: false

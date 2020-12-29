@@ -3,16 +3,12 @@ title: "OpenTeams"
 date: 2020-11-24T12:20:00+02:00
 type: post
 categories:
-- Marketplace
+- Support
 tags:
 - Live
 - Developer friendly
 - FOSS friendly
-- Support
-- Training
-- Hire Experts
-- Customization
-- Bug Fixes
+- Marketplace
 draft: false
 images:
 - /images/openteams.png

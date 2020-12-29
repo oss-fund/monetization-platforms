@@ -4,7 +4,6 @@ date: 2020-11-14T08:20:00+02:00
 type: post
 categories:
 - Content
-- Paywall
 tags:
 - Live
 - Publishing

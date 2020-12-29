@@ -8,8 +8,6 @@ tags:
 - Live
 - FOSS friendly
 - Developer friendly
-- Education
-- Hosting
 draft: false
 images:
 - /images/fosshost.png

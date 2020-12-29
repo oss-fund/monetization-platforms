@@ -4,11 +4,10 @@ date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
 - Content
-- Marketplace
 tags:
 - Live
 - Publishing
-- Education
+- Marketplace
 draft: false
 images:
 - /images/leanpub.png

@@ -7,7 +7,6 @@ categories:
 tags:
 - Live
 - Publishing
-- Education
 draft: false
 images:
 - /images/teachable.png

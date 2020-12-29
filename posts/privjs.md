@@ -3,7 +3,6 @@ title: "PrivJs"
 date: 2020-12-27T08:20:00+02:00
 type: post
 categories:
-- Subscription
 - Paywall
 tags:
 - Live
