@@ -7,7 +7,7 @@ categories:
 tags:
 - Discontinued
 - Decentralized
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

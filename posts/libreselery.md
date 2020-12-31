@@ -7,7 +7,7 @@ categories:
 tags:
 - Live
 - Decentralized
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Non-profit
 - Self-hosted

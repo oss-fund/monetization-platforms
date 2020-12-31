@@ -3,12 +3,11 @@ title: "Liberapay"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Crowdfunding
 - Donations
 tags:
 - Live
 - Non-profit
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Creative works
 draft: false

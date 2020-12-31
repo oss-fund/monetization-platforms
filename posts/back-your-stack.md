@@ -7,7 +7,7 @@ categories:
 tags:
 - In-development
 - Developer friendly
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/back-your-stack.png

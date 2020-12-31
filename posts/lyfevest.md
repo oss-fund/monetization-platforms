@@ -6,7 +6,7 @@ categories:
 - Support
 tags:
 - In-development
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

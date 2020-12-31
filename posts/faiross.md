@@ -6,7 +6,7 @@ categories:
 - Fundraising
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Membership
 - Social impact
 - Trademark

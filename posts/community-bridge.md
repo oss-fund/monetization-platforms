@@ -7,7 +7,7 @@ categories:
 tags:
 - Live
 - Non-profit
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Security
 draft: false

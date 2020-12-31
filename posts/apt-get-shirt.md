@@ -6,7 +6,7 @@ categories:
 - Merchandise
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/apt-get-shirt.png

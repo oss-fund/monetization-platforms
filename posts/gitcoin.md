@@ -9,6 +9,8 @@ categories:
 tags:
 - Live
 - Decentralized
+- Open source friendly
+- Developer friendly
 draft: false
 images:
 - /images/gitcoin.png

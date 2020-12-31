@@ -6,9 +6,10 @@ categories:
 - Donations
 tags:
 - In-development
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Decentralized
+- Merit
 draft: false
 images:
 - /images/source-cred.png

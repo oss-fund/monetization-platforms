@@ -6,7 +6,7 @@ categories:
 - Infrastructure
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

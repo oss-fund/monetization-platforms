@@ -7,7 +7,7 @@ categories:
 tags:
 - In-development
 - Decentralized
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

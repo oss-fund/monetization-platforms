@@ -8,7 +8,7 @@ categories:
 tags:
 - Live
 - Charity
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/amazon-smile.png

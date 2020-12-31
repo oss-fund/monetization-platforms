@@ -6,7 +6,7 @@ categories:
 - Donations
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Social impact
 draft: false
 images:

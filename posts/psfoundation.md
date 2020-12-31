@@ -6,7 +6,7 @@ categories:
 - Crowdfunding
 tags:
 - In-development
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Decentralized
 draft: false

@@ -7,6 +7,7 @@ categories:
 tags:
 - Live
 - Developer friendly
+- Documentation
 draft: false
 images:
 - /images/ethical-ads.png

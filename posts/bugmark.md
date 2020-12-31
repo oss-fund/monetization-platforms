@@ -8,7 +8,7 @@ tags:
 - In-development
 - Decentralized
 - Developer friendly
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/bugmark.png

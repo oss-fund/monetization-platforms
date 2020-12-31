@@ -8,7 +8,7 @@ categories:
 tags:
 - In-development
 - Non-profit
-- FOSS friendly
+- Open source friendly
 - Creative works
 draft: false
 images:

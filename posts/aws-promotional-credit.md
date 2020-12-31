@@ -6,7 +6,7 @@ categories:
 - Infrastructure
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/aws-promotional-credit.png

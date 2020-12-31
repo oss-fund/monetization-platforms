@@ -7,7 +7,7 @@ categories:
 tags:
 - Live
 - Developer friendly
-- FOSS friendly
+- Open source friendly
 draft: false
 images:
 - /images/thanks.png

@@ -6,7 +6,7 @@ categories:
 - Support
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Decentralized
 draft: false

@@ -6,7 +6,7 @@ categories:
 - Crowdfunding
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Creative works
 - Social impact

@@ -3,14 +3,11 @@ title: "GitHub Sponsors"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
-- Bounties
 - Donations
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
-- Design
-- Documentation
 draft: false
 images:
 - /images/github-sponsors.png

@@ -7,7 +7,7 @@ categories:
 tags:
 - Live
 - Decentralized
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

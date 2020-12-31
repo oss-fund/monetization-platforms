@@ -7,7 +7,7 @@ categories:
 - Bounties
 tags:
 - Discontinued
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 draft: false
 images:

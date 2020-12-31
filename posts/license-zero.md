@@ -6,7 +6,7 @@ categories:
 - Paywall
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Legal
 draft: false

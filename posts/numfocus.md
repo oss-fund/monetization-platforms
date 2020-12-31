@@ -6,7 +6,7 @@ categories:
 - Grants
 tags:
 - Live
-- FOSS friendly
+- Open source friendly
 - Developer friendly
 - Non-profit
 draft: false

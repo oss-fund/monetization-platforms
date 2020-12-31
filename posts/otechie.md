@@ -7,7 +7,7 @@ categories:
 tags:
 - In-development
 - Developer friendly
-- FOSS friendly
+- Open source friendly
 - Interactive
 - Chat
 draft: false
