@@ -8,6 +8,7 @@ tags:
 - Live
 - Open source friendly
 - Developer friendly
+- Hosting
 draft: false
 images:
 - /images/fosshost.png
