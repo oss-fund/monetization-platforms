@@ -8,10 +8,8 @@ tags:
 - Live
 - Open Source friendly
 - Developer friendly
-- FOSS
 - Open Hardware
 - Students
-- Professionals
 draft: false
 images:
 - /images/codeheat.png

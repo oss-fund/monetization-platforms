@@ -8,6 +8,7 @@ tags:
 - Live
 - Non-profit
 - Open source friendly
+- Developer friendly
 - Students
 draft: false
 images:
