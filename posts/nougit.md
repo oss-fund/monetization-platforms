@@ -5,7 +5,7 @@ type: post
 categories:
 - Crowdfunding
 tags:
-- In-development
+- Discontinued
 - Decentralized
 - Open source friendly
 - Developer friendly
@@ -20,7 +20,7 @@ description: "NouGit is an open source development accelarator platform with mar
 organization: "Corporation"
 monetization: "Decentralized bounties and rewards"
 technology: "Blockchain"
-status: "In-development"
+status: "Discontinued"
 activity: 0
 payment_services: "?"
 fee: "2.9%"
