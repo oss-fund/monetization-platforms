@@ -3,19 +3,16 @@ title: "eventyay"
 date: 2021-01-19T08:10:00+02:00
 type: post
 categories:
-- SaaS
-- Donations
-- Sales
+- Events
 tags:
 - Live
 - Open Source friendly
 - FOSS
 - Professionals
-- Events
 - Marketplace
 draft: false
 images:
-- /images/eventyay-logo.png
+- /images/eventyay.png
 comments: true
 lastmod: 2021-01-19T08:20:00+02:00
 link: "https://eventyay.com"
