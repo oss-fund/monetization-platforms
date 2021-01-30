@@ -23,7 +23,7 @@ monetization: "Projects can monetize event participation, sell tickets and spons
 technology: "Open source"
 status: "Live"
 activity: 20,000
-activity_text: "eventyay is an open source event solution for virtual and in-person events."
+activity_text: "Over 20,000 registered users for virtual and in-person events."
 payment_services: "Credit Card, Paypal, Wire Transfer, Cash"
 fee: "0-3%"
 fee_text: "Free for free events, 3% per paid ticket"
