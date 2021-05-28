@@ -23,8 +23,8 @@ status: "Live"
 activity: 1900
 activity_text: "More than 1900 collectives with contributors"
 payment_services: "Paypal, credit card"
-fee: "5%"
-fee_text: "Usually between 5%-10%"
+fee: "10%"
+fee_text: "Usually between 10%-15%"
 ---
 
 Provides tools for collectives to receive money and mechanisms to spend their money in a transparent way.<!--more-->
