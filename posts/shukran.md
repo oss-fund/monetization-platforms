@@ -1,10 +1,11 @@
+---
 title: "Shukran"
 date: 2021-08-23T16:10:20.078Z
 type: post
 categories:
 - Donations
 - Content
-- Merch
+- Merchandise
 - Crowdfunding
 tags:
 - Live
@@ -16,7 +17,7 @@ comments: true
 lastmod: 2021-08-23T16:10:20.078Z
 link: "https://useshukran.com"
 twitter: useshukran
-description: "Enables creators get earnings from people who enjoy their creative work regardless of audience size or algorithm."
+description: "Enables creators get earnings through tips from people who enjoy their creative work regardless of audience size or algorithm."
 organization: "Corporation"
 monetization: "Regular donations"
 technology: "Close source"
