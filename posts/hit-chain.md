@@ -20,7 +20,7 @@ description: "A developer autonomous community that bring together developers, i
 organization: "Corporation"
 monetization: "Decentralized ecosystem of services, governance and funding"
 technology: "Open source, Blockchain"
-status: "In-development"
+status: "Discontinued"
 activity: 0
 payment_services: "Token"
 fee: "?"
