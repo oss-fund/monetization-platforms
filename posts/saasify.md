@@ -19,7 +19,7 @@ description: "Saasify handles all of the SaaS boilerplate, including user accoun
 organization: "Corporation"
 monetization: "A cut from users running your project on the SaaS platform"
 technology: "Close source"
-status: "Live"
+status: "Discontinued"
 activity: 10
 activity_text: "More than 10 example projects hosted"
 payment_services: "Sripe"
