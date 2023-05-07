@@ -19,7 +19,7 @@ organization: "Public Benefit Corporation"
 monetization: "Bounties"
 technology: "Closed source"
 status: "Live"
-activity: 10000
+activity: 11000
 activity_text: "Over $11,000 rewarded to 48 contributors in 24 countries in 2023, $17,889 in open bounties"
 payment_services: "Stripe"
 fee: "20%"
