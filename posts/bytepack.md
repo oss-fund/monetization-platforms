@@ -19,7 +19,7 @@ description: "Bytepack helps you package and delivering software products to thi
 organization: "Corporation"
 monetization: "Paywall for software package usage"
 technology: "Close source"
-status: "Defunct"
+status: "Discontinued"
 activity: 0
 payment_services: "Stripe"
 fee: "?"
