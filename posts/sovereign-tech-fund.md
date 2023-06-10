@@ -15,10 +15,10 @@ comments: true
 lastmod: 2023-06-01T14:43:00+02:00
 link: "https://sovereigntechfund.de/en/"
 twitter: sovtechfund
-description: "The Sovereign Tech Fund supports the development, improvement and maintenance of open digital infrastructure. Our goal is to sustainably strengthen the open source ecosystem. We focus on security, resilience, technological diversity, and the people behind the code."
+description: "The Sovereign Tech Fund supports the development, improvement and maintenance of open digital infrastructure."
 organization: "German Federal Ministry for Economic Affairs and Climate Action"
 monetization: "Grants for selected projects"
-technology: "-"
+technology: "Close source"
 status: "Live"
 activity: 13
 activity_text: "Invested in 13 projects since October 2022"
