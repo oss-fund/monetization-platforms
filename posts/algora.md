@@ -1,6 +1,6 @@
 ---
 title: "Algora"
-date: 2023-05-07T18:00:00+03:00
+date: 2023-09-29T18:00:00+03:00
 type: post
 categories:
 - Bounties
@@ -11,20 +11,20 @@ draft: false
 images:
 - /images/algora.png
 comments: true
-lastmod: 2023-05-07T18:00:00+03:00
+lastmod: 2023-09-29T18:00:00+03:00
 link: "https://algora.io/"
 twitter: algoraio
-description: "Paid open source contributions."
+description: "Paid open source contributions"
 organization: "Public Benefit Corporation"
 monetization: "Bounties"
 technology: "Closed source"
 status: "Live"
-activity: 11000
-activity_text: "Over $11,000 rewarded to 48 contributors in 24 countries in 2023, $17,889 in open bounties"
+activity: 60000
+activity_text: "$60,710 rewarded to 177 OSS contributors from 46 countries in 2023"
 payment_services: "Stripe"
-fee: "20%"
-fee_text: "20% algora + 3% stripe, paid by orgs on top of bounty payouts"
+fee: "19%"
+fee_text: "19% algora + 4% stripe, paid by orgs on top of bounty payouts"
 ---
 
-Algora helps projects reward their contributors on Github using tips & bounties<!--more-->
+Algora helps OSS projects reward their contributors on Github using tips & bounties<!--more-->
 
