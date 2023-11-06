@@ -18,7 +18,7 @@ description: "Bountify is a marketplace for bounties on solutions to coding prob
 organization: "Corporation"
 monetization: "Bounties"
 technology: "Close source"
-status: "Live"
+status: "Discontinued"
 activity: 1600
 activity_text: "Over 1600 bounties, all of which claimed or expired"
 payment_services: "Credit card"
