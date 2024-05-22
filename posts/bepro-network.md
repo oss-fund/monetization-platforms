@@ -17,7 +17,7 @@ tags:
 - FOSS
 draft: false
 images:
-- /images/bepro-logo.png
+- /images/bepro-logo-symbol.jpg
 comments: true
 lastmod: 2024-05-22T00:00:00+00:00
 link: "https://app.bepro.network/"
