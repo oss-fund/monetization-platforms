@@ -4,13 +4,17 @@ date: 2024-05-22T00:00:00+00:00
 type: post
 categories:
 - Bounties
-tags:
-- Live
-- Developer friendly
 - Crowdfunding
 - Content
 - Staking
 - Fundraising
+tags:
+- Live
+- Developer friendly
+- Opensource friendly
+- Marketplace
+- Publishing
+- FOSS
 draft: false
 images:
 - /images/bepro-logo.png
