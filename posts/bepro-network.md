@@ -1,3 +1,4 @@
+---
 title: "BEPRO Network"
 date: 2024-05-22T00:00:00+00:00
 type: post
@@ -6,7 +7,10 @@ categories:
 tags:
 - Live
 - Developer friendly
-- Markteplace
+- Crowdfunding
+- Content
+- Staking
+- Fundraising
 draft: false
 images:
 - /images/bepro-logo.png
