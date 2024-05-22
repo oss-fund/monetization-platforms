@@ -28,8 +28,8 @@ monetization: "Bounties"
 technology: "Open source"
 status: "Live"
 activity: 4726
-activity_text: "$4,726+ rewarded (31+ bounties) and 18 more bounties open"
-payment_services: "on chain"
+activity_text: "$4,726+ rewarded (31+ bounties) with 18 more bounties open (total value ~$4630)"
+payment_services: "On Chain"
 fee: "10%"
 fee_text: "10% fee to the marketplace"
 ---
