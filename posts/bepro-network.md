@@ -4,20 +4,14 @@ date: 2024-05-22T00:00:00+00:00
 type: post
 categories:
 - Bounties
-- Crowdfunding
-- Content
-- Staking
-- Fundraising
 tags:
 - Live
 - Developer friendly
 - Opensource friendly
 - Marketplace
-- Publishing
-- FOSS
 draft: false
 images:
-- /images/bepro-logo-symbol.jpg
+- /images/bepro.jpg
 comments: true
 lastmod: 2024-05-22T00:00:00+00:00
 link: "https://app.bepro.network/"
@@ -29,7 +23,7 @@ technology: "Open source"
 status: "Live"
 activity: 4726
 activity_text: "$4,726+ rewarded (31+ bounties) with 18 more bounties open (total value ~$4630)"
-payment_services: "On Chain"
+payment_services: "Token"
 fee: "10%"
 fee_text: "10% fee to the marketplace"
 ---
