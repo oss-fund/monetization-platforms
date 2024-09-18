@@ -21,10 +21,9 @@ organization: "Corporation"
 monetization: "Bounties"
 technology: "Closed source"
 status: "Live"
-activity: 10
 payment_services: "Stripe"
-fee: "15%"
-fee_text: "15% paid by bounty creators on top of bounty amount"
+fee: "10%"
+fee_text: "10% paid by bounty creators on top of bounty amount"
 ---
 
 BountyHub, helps open-source maintainers monetize their repositories by allowing people or companies who use their repositories to place bounties on issues. Then contributors can earn money by solving the issues on their repositories.<!--more-->
