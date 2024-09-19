@@ -19,7 +19,7 @@ description: "Open source project sponsorship platform for tiered support such a
 organization: "Corporation"
 monetization: "Tiered support model for project sponsorship"
 technology: "Open source"
-status: "In-development"
+status: "Discontinued"
 activity: 10
 activity_text: "Around 10 backers for the platform itself"
 payment_services: "Stripe"
