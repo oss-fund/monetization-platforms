@@ -1,6 +1,6 @@
 ---
 title: "Open Source Design"
-date: 2020-06-20T08:20:00+02:00
+date: 2024-11-17T11:51:00+05:30
 type: post
 categories:
 - Bounties
@@ -18,7 +18,7 @@ twitter: opensrcdesign
 description: "A community of designers and developers pushing open design processes and improving design of open source software."
 organization: "Non-profit"
 monetization: "Jobs board for designers"
-technology: "Close source"
+technology: "Open source"
 status: "Live"
 activity: 150
 activity_text: "More than 150 jobs (some paid, some gratis)"
