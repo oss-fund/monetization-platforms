@@ -1,5 +1,5 @@
 ---
-title: "Indigogo"
+title: "Indiegogo"
 date: 2020-06-20T08:20:00+02:00
 type: post
 categories:
@@ -28,5 +28,5 @@ payment_services: "Stripe"
 fee: "5%"
 ---
 
-A crowdfunding and indemand campaignining platform with marketplace. <!--more-->
+A crowdfunding and in-demand campaigning platform with marketplace. <!--more-->
 
