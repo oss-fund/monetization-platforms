@@ -17,7 +17,7 @@ comments: true
 lastmod: 2024-09-22T19:15:00+00:00
 link: "https://opire.dev/"
 twitter: opire_dev
-description: "Opire is a bounty platform where anyone can put bounties on any GitHub issue, which are only paid out once resolved. Contributors earn money by solving these challenges and claiming rewards."
+description: "Opire is a bounty platform where anyone can put bounties on any GitHub issue, which are only paid out once resolved."
 organization: "Corporation"
 monetization: "Bounties"
 technology: "Closed source"
