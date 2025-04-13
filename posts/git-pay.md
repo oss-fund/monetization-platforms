@@ -5,7 +5,6 @@ type: post
 categories:
 - Bounties
 tags:
-- Live
 - Open source friendly
 - Developer friendly
 draft: false
@@ -18,7 +17,7 @@ description: "An issue bounty platform for Git-powered projects with an integrat
 organization: "Corporation"
 monetization: "Bounties"
 technology: "Open source"
-status: "Live"
+status: "Discontinued"
 activity: 150
 activity_text: "More than 150 paid tasks"
 payment_services: "Stripe, Paypal"
