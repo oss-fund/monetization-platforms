@@ -8,7 +8,6 @@ categories:
 - Merchandise
 - Crowdfunding
 tags:
-- Live
 - Creative works
 draft: false
 images:
@@ -21,7 +20,7 @@ description: "Enables creators get earnings through tips from people who enjoy t
 organization: "Corporation"
 monetization: "Regular donations"
 technology: "Close source"
-status: "Live"
+status: "Discontinued"
 activity: 10000
 activity_text: "Thousands of creators get support from their audience through donations and subscriptions"
 payment_services: "Flutterwave, MPESA"
