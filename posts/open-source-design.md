@@ -1,6 +1,6 @@
 ---
 title: "Open Source Design"
-date: 2024-11-17T11:51:00+05:30
+date: 2024-11-17T00:00:00+00:00
 type: post
 categories:
 - Bounties

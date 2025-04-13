@@ -1,6 +1,6 @@
 ---
 title: "Shukran"
-date: 2021-08-23T16:10:20.078Z
+date: 2021-08-23T00:00:00+00:00
 type: post
 categories:
 - Donations

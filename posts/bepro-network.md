@@ -7,7 +7,7 @@ categories:
 tags:
 - Live
 - Developer friendly
-- Opensource friendly
+- Open source friendly
 - Marketplace
 draft: false
 images:

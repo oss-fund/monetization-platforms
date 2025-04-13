@@ -1,6 +1,6 @@
 ---
 title: "Code Code Ship"
-date: 2023-03-23T08:43:00+01:00
+date: 2023-03-23T00:00:00+00:00
 type: post
 categories:
 - Paywall

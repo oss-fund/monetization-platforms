@@ -1,6 +1,6 @@
 ---
 title: "Sovereign Tech Fund"
-date: 2023-06-01T14:43:00+02:00
+date: 2023-06-01T00:00:00+00:00
 type: post
 categories:
 - Grants

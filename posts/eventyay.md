@@ -8,7 +8,6 @@ tags:
 - Live
 - Open Source friendly
 - FOSS
-- Professionals
 - Marketplace
 draft: false
 images:
