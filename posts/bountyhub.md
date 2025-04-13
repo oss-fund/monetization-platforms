@@ -16,11 +16,13 @@ images:
 comments: true
 lastmod: 2024-09-18T16:15:00+00:00
 link: "https://bountyhub.dev/"
-description: "BountyHub is a platform where developers can put bounties on their Github issues or earn money by solving them. Secure payments and dispute resolution make BountyHub a reliable way to incentivize open-source contributions."
+description: "BountyHub is a platform where developers can put bounties on their Github issues or earn money by solving them."
 organization: "Corporation"
 monetization: "Bounties"
 technology: "Closed source"
 status: "Live"
+activity: 50
+activity_text: "Tens of bounties available"
 payment_services: "Stripe"
 fee: "10%"
 fee_text: "10% paid by bounty creators on top of bounty amount"
