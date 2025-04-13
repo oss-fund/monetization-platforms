@@ -7,7 +7,6 @@ categories:
 tags:
 - Live
 - Open Source friendly
-- FOSS
 - Marketplace
 draft: false
 images:

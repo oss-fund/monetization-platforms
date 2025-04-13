@@ -3,7 +3,7 @@ title: "Codeheat"
 date: 2021-01-18T08:20:00+02:00
 type: post
 categories:
-- Contest
+- Events
 tags:
 - Live
 - Open Source friendly

@@ -3,7 +3,7 @@ title: "FairOSS"
 date: 2020-10-03T12:20:00+02:00
 type: post
 categories:
-- Fundraising
+- Crowdfunding
 tags:
 - Live
 - Open source friendly

@@ -5,7 +5,7 @@ type: post
 categories:
 - Staking
 tags:
-- Live
+- Discontinued
 - Decentralized
 - Open source friendly
 - Developer friendly
@@ -13,14 +13,14 @@ draft: false
 images:
 - /images/dev-protocol.png
 comments: true
-lastmod: 2020-08-22T08:20:00+02:00
+lastmod: 2025-04-13T08:20:00+02:00
 link: "https://devprtcl.com/"
 twitter: devprtcl
 description: "Dev protocol is a decentralized middleware that enhances individual activities and supports sustainability through staking." 
 organization: "Corporation"
 monetization: "Staking tokens to support projects and earn rewards"
 technology: "Open source, Blockchain, Ethereum"
-status: "Live"
+status: "Discontinued"
 activity: 1500
 activity_text: "1,583,327 DEV tokens with a market cap over of $70K were distributed to OSS developers of 1500 open source projects."
 payment_services: "Token"
